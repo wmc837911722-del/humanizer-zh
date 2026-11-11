@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书图文写作 · humanizer-zh"
+  short_description: "用于小红书AI图文的标题、正文和配图文案，保留事实，减少空话和模板感"
+  default_prompt: "使用 $humanizer-zh 将这些材料写成或改成小红书AI图文笔记，保留真实经历和来源归因，让读者看得懂、能用上。"
